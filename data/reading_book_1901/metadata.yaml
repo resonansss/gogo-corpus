@@ -1,0 +1,20 @@
+# Source description
+source: reading_book_1901
+title: "Gogo Reading Book"
+subtitle: "Native Proverbs, Riddles, and Fables"
+year: 1901
+language: "Gogo (Cigogo)"
+publisher: "Society for Promoting Christian Knowledge"
+place: "London"
+pdf page count: 76
+
+sections:
+  - type: proverbs
+    pdf page start: 3
+    pdf page end: 8
+  - type: riddles
+    pdf page start: 9
+    pdf page end: 11
+  - type: tales
+    pdf page start: 12
+    pdf page end: 75
