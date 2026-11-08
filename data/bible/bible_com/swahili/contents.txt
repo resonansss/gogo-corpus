@@ -1,0 +1,70 @@
+Biblia Habari Njema
+
+№ | Завет | Книга | Глав
+
+01 | OT | Mwanzo | 50
+02 | OT | Kutoka | 40
+03 | OT | Walawi | 27
+04 | OT | Hesabu | 36
+05 | OT | Kumbukumbu la Sheria | 34
+06 | OT | Yoshua | 24
+07 | OT | Waamuzi | 21
+08 | OT | Ruthu | 4
+09 | OT | 1 Samueli | 31
+10 | OT | 2 Samueli | 24
+11 | OT | 1 Wafalme | 22
+12 | OT | 2 Wafalme | 25
+13 | OT | 1 Mambo ya Nyakati | 29
+14 | OT | 2 Mambo ya Nyakati | 36
+15 | OT | Ezra | 10
+16 | OT | Nehemia | 13
+17 | OT | Esta | 10
+18 | OT | Yobu | 42
+19 | OT | Zaburi | 150
+20 | OT | Methali | 31
+21 | OT | Mhubiri | 12
+22 | OT | Wimbo Ulio Bora | 8
+23 | OT | Isaya | 66
+24 | OT | Yeremia | 52
+25 | OT | Maombolezo | 5
+26 | OT | Ezekieli | 48
+27 | OT | Danieli | 12
+28 | OT | Hosea | 14
+29 | OT | Yoeli | 3
+30 | OT | Amosi | 9
+31 | OT | Obadia | 1
+32 | OT | Yona | 4
+33 | OT | Mika | 7
+34 | OT | Nahumu | 3
+35 | OT | Habakuki | 3
+36 | OT | Sefania | 3
+37 | OT | Hagai | 2
+38 | OT | Zekaria | 14
+39 | OT | Malaki | 4
+40 | NT | Mathayo | 28
+41 | NT | Marko | 16
+42 | NT | Luka | 24
+43 | NT | Yohane | 21
+44 | NT | Matendo | 28
+45 | NT | Waroma | 16
+46 | NT | 1 Wakorintho | 16
+47 | NT | 2 Wakorintho | 13
+48 | NT | Wagalatia | 6
+49 | NT | Waefeso | 6
+50 | NT | Wafilipi | 4
+51 | NT | Wakolosai | 4
+52 | NT | 1 Wathesalonike | 5
+53 | NT | 2 Wathesalonike | 3
+54 | NT | 1 Timotheo | 6
+55 | NT | 2 Timotheo | 4
+56 | NT | Tito | 3
+57 | NT | Filemoni | 1
+58 | NT | Waebrania | 13
+59 | NT | Yakobo | 5
+60 | NT | 1 Petro | 5
+61 | NT | 2 Petro | 3
+62 | NT | 1 Yohane | 5
+63 | NT | 2 Yohane | 1
+64 | NT | 3 Yohane | 1
+65 | NT | Yuda | 1
+66 | NT | Ufunuo | 22

@@ -1,0 +1,70 @@
+Luganuzi Luswanu Kuli Wanhu Wose 2002
+
+№ | Завет | Книга | Глав
+
+01 | OT | Mwamulizo | 50
+02 | OT | Wutuluce | 40
+03 | OT | Walawi | 27
+04 | OT | Wuwale | 36
+05 | OT | Wukumbucize wo Wulajilize | 34
+06 | OT | Yoshuwa | 24
+07 | OT | Walamuzi | 21
+08 | OT | Lutu | 4
+09 | OT | 1 Samwili | 31
+10 | OT | 2 Samwili | 24
+11 | OT | 1 Watemi | 22
+12 | OT | 2 Watemi | 25
+13 | OT | 1 Zinghomo | 29
+14 | OT | 2 Zinghomo | 36
+15 | OT | Ezila | 10
+16 | OT | Nehemiya | 13
+17 | OT | Esita | 10
+18 | OT | Jobu | 42
+19 | OT | Zabuli | 150
+20 | OT | Zimbazi | 31
+21 | OT | Muganuzi | 12
+22 | OT | Lwimbo Luswanu muno | 8
+23 | OT | Isaya | 66
+24 | OT | Yelemiya | 52
+25 | OT | I Cililo | 5
+26 | OT | Ezekiyeli | 48
+27 | OT | Danyeli | 12
+28 | OT | Hoseya | 14
+29 | OT | Yoweli | 3
+30 | OT | Amosi | 9
+31 | OT | Obadiya | 1
+32 | OT | Yona | 4
+33 | OT | Mika | 7
+34 | OT | Nahumu | 3
+35 | OT | Habakuki | 3
+36 | OT | Zefaniya | 3
+37 | OT | Hagayi | 2
+38 | OT | Zakaliya | 14
+39 | OT | Malaki | 4
+40 | NT | Matayo | 28
+41 | NT | Maluko | 16
+42 | NT | Luka | 24
+43 | NT | Yohana | 21
+44 | NT | Imetumo ge Watumwa | 28
+45 | NT | Walumi | 16
+46 | NT | 1 Wakolinto | 16
+47 | NT | 2 Wakolinto | 13
+48 | NT | Wagalatiya | 6
+49 | NT | Waefeso | 6
+50 | NT | Wafilipi | 4
+51 | NT | Wakolosayi | 4
+52 | NT | 1 Watesalonike | 5
+53 | NT | 2 Watesalonike | 3
+54 | NT | 1 Timoteyo | 6
+55 | NT | 2 Timoteyo | 4
+56 | NT | Tito | 3
+57 | NT | Filemoni | 1
+58 | NT | Wahebelaniya | 13
+59 | NT | Yakobo | 5
+60 | NT | 1 Petelo | 5
+61 | NT | 2 Petelo | 3
+62 | NT | 1 Yohana | 5
+63 | NT | 2 Yohana | 1
+64 | NT | 3 Yohana | 1
+65 | NT | Yuda | 1
+66 | NT | Wugubule | 22
